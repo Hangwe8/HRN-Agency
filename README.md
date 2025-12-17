@@ -31,3 +31,8 @@ A full-stack job portal web application built using the MERN stack (MongoDB, Exp
 - Deployment: Planned
 
 ## Installation (Local Setup)
+```bash
+git clone https://github.com/your-username/hrn-agency-job-portal.git
+cd hrn-agency-job-portal
+npm install
+npm run de
